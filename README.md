@@ -8,6 +8,7 @@ My LeetCode submissions
 | ------- |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kirill3754/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kirill3754/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/kirill3754/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/kirill3754/LeetCode/tree/master/2870-longest-alternating-subarray) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kirill3754/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Hash Table
@@ -25,5 +26,6 @@ My LeetCode submissions
 ## Enumeration
 |  |
 | ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/kirill3754/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/kirill3754/LeetCode/tree/master/2870-longest-alternating-subarray) |
 <!---LeetCode Topics End-->
