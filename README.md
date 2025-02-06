@@ -6,6 +6,7 @@ My LeetCode submissions
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/kirill3754/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1364-tuple-with-same-product](https://github.com/kirill3754/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kirill3754/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kirill3754/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
