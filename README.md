@@ -13,12 +13,14 @@ My LeetCode submissions
 | [2844-sum-of-squares-of-special-elements](https://github.com/kirill3754/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/kirill3754/LeetCode/tree/master/2870-longest-alternating-subarray) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kirill3754/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kirill3754/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/kirill3754/LeetCode/tree/master/3463-alternating-groups-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/kirill3754/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kirill3754/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kirill3754/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
 | ------- |
@@ -37,4 +39,8 @@ My LeetCode submissions
 |  |
 | ------- |
 | [3463-alternating-groups-i](https://github.com/kirill3754/LeetCode/tree/master/3463-alternating-groups-i) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kirill3754/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
