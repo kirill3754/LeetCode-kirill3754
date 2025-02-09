@@ -23,6 +23,7 @@ My LeetCode submissions
 | [2448-count-number-of-bad-pairs](https://github.com/kirill3754/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kirill3754/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/kirill3754/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kirill3754/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kirill3754/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/kirill3754/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/kirill3754/LeetCode/tree/master/2870-longest-alternating-subarray) |
@@ -55,6 +56,7 @@ My LeetCode submissions
 | [1364-tuple-with-same-product](https://github.com/kirill3754/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kirill3754/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/kirill3754/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kirill3754/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Enumeration
 |  |
 | ------- |
@@ -103,6 +105,7 @@ My LeetCode submissions
 | [0789-kth-largest-element-in-a-stream](https://github.com/kirill3754/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kirill3754/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kirill3754/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kirill3754/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kirill3754/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Tree
 |  |
