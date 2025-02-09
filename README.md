@@ -31,6 +31,7 @@ My LeetCode submissions
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kirill3754/LeetCode/tree/master/0044-wildcard-matching) |
 | [0824-number-of-lines-to-write-string](https://github.com/kirill3754/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kirill3754/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
@@ -107,6 +108,7 @@ My LeetCode submissions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kirill3754/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/kirill3754/LeetCode/tree/master/0044-wildcard-matching) |
 ## Stack
 |  |
 | ------- |
@@ -115,4 +117,12 @@ My LeetCode submissions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kirill3754/LeetCode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/kirill3754/LeetCode/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/kirill3754/LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
