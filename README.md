@@ -57,6 +57,7 @@ My LeetCode submissions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kirill3754/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kirill3754/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2434-design-a-number-container-system](https://github.com/kirill3754/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
@@ -83,4 +84,16 @@ My LeetCode submissions
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/kirill3754/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kirill3754/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kirill3754/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kirill3754/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
