@@ -12,6 +12,7 @@ My LeetCode submissions
 | [0084-largest-rectangle-in-histogram](https://github.com/kirill3754/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0485-max-consecutive-ones](https://github.com/kirill3754/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kirill3754/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0787-sliding-puzzle](https://github.com/kirill3754/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0824-number-of-lines-to-write-string](https://github.com/kirill3754/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [1364-tuple-with-same-product](https://github.com/kirill3754/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kirill3754/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -118,6 +119,7 @@ My LeetCode submissions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kirill3754/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/kirill3754/LeetCode/tree/master/0044-wildcard-matching) |
+| [0787-sliding-puzzle](https://github.com/kirill3754/LeetCode/tree/master/0787-sliding-puzzle) |
 ## Stack
 |  |
 | ------- |
@@ -141,8 +143,21 @@ My LeetCode submissions
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kirill3754/LeetCode/tree/master/0051-n-queens) |
+| [0787-sliding-puzzle](https://github.com/kirill3754/LeetCode/tree/master/0787-sliding-puzzle) |
 ## Sorting
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kirill3754/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/kirill3754/LeetCode/tree/master/0787-sliding-puzzle) |
+## Memoization
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/kirill3754/LeetCode/tree/master/0787-sliding-puzzle) |
+## Matrix
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/kirill3754/LeetCode/tree/master/0787-sliding-puzzle) |
 <!---LeetCode Topics End-->
