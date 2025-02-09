@@ -16,6 +16,7 @@ My LeetCode submissions
 | [0824-number-of-lines-to-write-string](https://github.com/kirill3754/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kirill3754/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1364-tuple-with-same-product](https://github.com/kirill3754/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kirill3754/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kirill3754/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kirill3754/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/kirill3754/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -91,6 +92,7 @@ My LeetCode submissions
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kirill3754/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kirill3754/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kirill3754/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -125,6 +127,7 @@ My LeetCode submissions
 | [0042-trapping-rain-water](https://github.com/kirill3754/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/kirill3754/LeetCode/tree/master/0044-wildcard-matching) |
 | [0787-sliding-puzzle](https://github.com/kirill3754/LeetCode/tree/master/0787-sliding-puzzle) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kirill3754/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +144,7 @@ My LeetCode submissions
 | ------- |
 | [0044-wildcard-matching](https://github.com/kirill3754/LeetCode/tree/master/0044-wildcard-matching) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kirill3754/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kirill3754/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Recursion
 |  |
 | ------- |
