@@ -94,6 +94,7 @@ My LeetCode submissions
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kirill3754/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kirill3754/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/kirill3754/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -203,6 +204,7 @@ My LeetCode submissions
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/kirill3754/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kirill3754/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/kirill3754/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Graph
 |  |
 | ------- |
