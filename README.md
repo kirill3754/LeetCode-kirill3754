@@ -23,6 +23,7 @@ My LeetCode submissions
 | [2448-count-number-of-bad-pairs](https://github.com/kirill3754/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kirill3754/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/kirill3754/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kirill3754/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/kirill3754/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/kirill3754/LeetCode/tree/master/2870-longest-alternating-subarray) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kirill3754/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -83,6 +84,7 @@ My LeetCode submissions
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kirill3754/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kirill3754/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/kirill3754/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kirill3754/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Ordered Set
 |  |
 | ------- |
@@ -173,6 +175,7 @@ My LeetCode submissions
 | [0787-sliding-puzzle](https://github.com/kirill3754/LeetCode/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kirill3754/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kirill3754/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kirill3754/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -182,6 +185,7 @@ My LeetCode submissions
 | ------- |
 | [0787-sliding-puzzle](https://github.com/kirill3754/LeetCode/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kirill3754/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kirill3754/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -204,6 +208,7 @@ My LeetCode submissions
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/kirill3754/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kirill3754/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kirill3754/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -212,4 +217,5 @@ My LeetCode submissions
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kirill3754/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kirill3754/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 <!---LeetCode Topics End-->
