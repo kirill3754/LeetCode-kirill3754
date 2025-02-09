@@ -183,4 +183,16 @@ My LeetCode submissions
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kirill3754/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Depth-First Search
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/kirill3754/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Graph
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/kirill3754/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/kirill3754/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
