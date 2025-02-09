@@ -6,6 +6,7 @@ My LeetCode submissions
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/kirill3754/LeetCode/tree/master/0041-first-missing-positive) |
 | [0485-max-consecutive-ones](https://github.com/kirill3754/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0824-number-of-lines-to-write-string](https://github.com/kirill3754/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [1364-tuple-with-same-product](https://github.com/kirill3754/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -20,6 +21,7 @@ My LeetCode submissions
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/kirill3754/LeetCode/tree/master/0041-first-missing-positive) |
 | [1364-tuple-with-same-product](https://github.com/kirill3754/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kirill3754/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2434-design-a-number-container-system](https://github.com/kirill3754/LeetCode/tree/master/2434-design-a-number-container-system) |
