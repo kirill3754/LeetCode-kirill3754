@@ -51,6 +51,7 @@ My LeetCode submissions
 | [0076-minimum-window-substring](https://github.com/kirill3754/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0824-number-of-lines-to-write-string](https://github.com/kirill3754/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/kirill3754/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1764-maximum-repeating-substring](https://github.com/kirill3754/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kirill3754/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
@@ -146,6 +147,7 @@ My LeetCode submissions
 | [0042-trapping-rain-water](https://github.com/kirill3754/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/kirill3754/LeetCode/tree/master/0044-wildcard-matching) |
 | [0787-sliding-puzzle](https://github.com/kirill3754/LeetCode/tree/master/0787-sliding-puzzle) |
+| [1764-maximum-repeating-substring](https://github.com/kirill3754/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kirill3754/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/kirill3754/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 ## Stack
@@ -240,4 +242,8 @@ My LeetCode submissions
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kirill3754/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/kirill3754/LeetCode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
