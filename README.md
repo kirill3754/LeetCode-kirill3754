@@ -30,6 +30,7 @@ My LeetCode submissions
 | [2844-sum-of-squares-of-special-elements](https://github.com/kirill3754/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/kirill3754/LeetCode/tree/master/2870-longest-alternating-subarray) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kirill3754/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kirill3754/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kirill3754/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kirill3754/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/kirill3754/LeetCode/tree/master/3463-alternating-groups-i) |
@@ -81,6 +82,7 @@ My LeetCode submissions
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kirill3754/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kirill3754/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kirill3754/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kirill3754/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/kirill3754/LeetCode/tree/master/3447-clear-digits) |
 ## Design
@@ -100,6 +102,7 @@ My LeetCode submissions
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kirill3754/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kirill3754/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/kirill3754/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kirill3754/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Ordered Set
 |  |
 | ------- |
