@@ -135,6 +135,7 @@ My LeetCode submissions
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/kirill3754/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kirill3754/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/kirill3754/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -191,6 +192,7 @@ My LeetCode submissions
 | ------- |
 | [0051-n-queens](https://github.com/kirill3754/LeetCode/tree/master/0051-n-queens) |
 | [0787-sliding-puzzle](https://github.com/kirill3754/LeetCode/tree/master/0787-sliding-puzzle) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/kirill3754/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Sorting
 |  |
 | ------- |
