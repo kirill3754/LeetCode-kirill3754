@@ -55,6 +55,7 @@ My LeetCode submissions
 | [0044-wildcard-matching](https://github.com/kirill3754/LeetCode/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/kirill3754/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0824-number-of-lines-to-write-string](https://github.com/kirill3754/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
+| [1156-occurrences-after-bigram](https://github.com/kirill3754/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1160-letter-tile-possibilities](https://github.com/kirill3754/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/kirill3754/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1764-maximum-repeating-substring](https://github.com/kirill3754/LeetCode/tree/master/1764-maximum-repeating-substring) |
