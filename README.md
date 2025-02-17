@@ -84,6 +84,7 @@ My LeetCode submissions
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/kirill3754/LeetCode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kirill3754/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kirill3754/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kirill3754/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -137,6 +138,7 @@ My LeetCode submissions
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/kirill3754/LeetCode/tree/master/1642-water-bottles) |
 | [2448-count-number-of-bad-pairs](https://github.com/kirill3754/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kirill3754/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kirill3754/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
