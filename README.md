@@ -58,6 +58,7 @@ My LeetCode submissions
 | [0076-minimum-window-substring](https://github.com/kirill3754/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0696-count-binary-substrings](https://github.com/kirill3754/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0824-number-of-lines-to-write-string](https://github.com/kirill3754/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/kirill3754/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1156-occurrences-after-bigram](https://github.com/kirill3754/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1160-letter-tile-possibilities](https://github.com/kirill3754/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/kirill3754/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -123,6 +124,7 @@ My LeetCode submissions
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kirill3754/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/kirill3754/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kirill3754/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/kirill3754/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
@@ -137,6 +139,7 @@ My LeetCode submissions
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/kirill3754/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/kirill3754/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kirill3754/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Data Stream
 |  |
@@ -252,6 +255,7 @@ My LeetCode submissions
 ## Depth-First Search
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/kirill3754/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2201-valid-arrangement-of-pairs](https://github.com/kirill3754/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kirill3754/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/kirill3754/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
