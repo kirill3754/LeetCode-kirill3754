@@ -26,6 +26,7 @@ My LeetCode submissions
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kirill3754/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kirill3754/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/kirill3754/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/kirill3754/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kirill3754/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kirill3754/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kirill3754/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -126,6 +127,7 @@ My LeetCode submissions
 | [0789-kth-largest-element-in-a-stream](https://github.com/kirill3754/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kirill3754/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kirill3754/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/kirill3754/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/kirill3754/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Search Tree
 |  |
@@ -229,6 +231,7 @@ My LeetCode submissions
 | [0787-sliding-puzzle](https://github.com/kirill3754/LeetCode/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kirill3754/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kirill3754/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/kirill3754/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kirill3754/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Memoization
 |  |
@@ -258,12 +261,14 @@ My LeetCode submissions
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kirill3754/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2201-valid-arrangement-of-pairs](https://github.com/kirill3754/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kirill3754/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/kirill3754/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/kirill3754/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Graph
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/kirill3754/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/kirill3754/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/kirill3754/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/kirill3754/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Eulerian Circuit
 |  |
