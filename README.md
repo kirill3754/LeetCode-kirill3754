@@ -19,6 +19,7 @@ My LeetCode submissions
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kirill3754/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kirill3754/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kirill3754/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kirill3754/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kirill3754/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kirill3754/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/kirill3754/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -182,6 +183,7 @@ My LeetCode submissions
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kirill3754/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1764-maximum-repeating-substring](https://github.com/kirill3754/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kirill3754/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kirill3754/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2554-minimum-total-distance-traveled](https://github.com/kirill3754/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 ## Stack
 |  |
