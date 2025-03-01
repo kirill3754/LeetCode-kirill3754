@@ -27,6 +27,7 @@ My LeetCode submissions
 | [2448-count-number-of-bad-pairs](https://github.com/kirill3754/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kirill3754/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/kirill3754/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2551-apply-operations-to-an-array](https://github.com/kirill3754/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/kirill3754/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kirill3754/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kirill3754/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -98,6 +99,7 @@ My LeetCode submissions
 | ------- |
 | [1642-water-bottles](https://github.com/kirill3754/LeetCode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kirill3754/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/kirill3754/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kirill3754/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kirill3754/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kirill3754/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -175,6 +177,7 @@ My LeetCode submissions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kirill3754/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0696-count-binary-substrings](https://github.com/kirill3754/LeetCode/tree/master/0696-count-binary-substrings) |
+| [2551-apply-operations-to-an-array](https://github.com/kirill3754/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
