@@ -161,6 +161,7 @@ My LeetCode submissions
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kirill3754/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/kirill3754/LeetCode/tree/master/1642-water-bottles) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kirill3754/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/kirill3754/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2679-count-distinct-numbers-on-board](https://github.com/kirill3754/LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kirill3754/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
