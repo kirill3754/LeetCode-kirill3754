@@ -51,6 +51,7 @@ My LeetCode submissions
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kirill3754/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1160-letter-tile-possibilities](https://github.com/kirill3754/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kirill3754/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kirill3754/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kirill3754/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/kirill3754/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/kirill3754/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -72,6 +73,7 @@ My LeetCode submissions
 | [1160-letter-tile-possibilities](https://github.com/kirill3754/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/kirill3754/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/kirill3754/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kirill3754/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kirill3754/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1764-maximum-repeating-substring](https://github.com/kirill3754/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kirill3754/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -100,6 +102,7 @@ My LeetCode submissions
 | [0076-minimum-window-substring](https://github.com/kirill3754/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kirill3754/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kirill3754/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kirill3754/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kirill3754/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/kirill3754/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/kirill3754/LeetCode/tree/master/3483-alternating-groups-ii) |
