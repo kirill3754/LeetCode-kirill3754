@@ -43,6 +43,7 @@ My LeetCode submissions
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kirill3754/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/kirill3754/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/kirill3754/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kirill3754/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/kirill3754/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ My LeetCode submissions
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kirill3754/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kirill3754/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/kirill3754/LeetCode/tree/master/3463-alternating-groups-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kirill3754/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/kirill3754/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/kirill3754/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Simulation
@@ -279,11 +281,13 @@ My LeetCode submissions
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kirill3754/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kirill3754/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kirill3754/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kirill3754/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kirill3754/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -332,4 +336,5 @@ My LeetCode submissions
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/kirill3754/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kirill3754/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
