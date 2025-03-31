@@ -52,6 +52,7 @@ https://leetcode.com/u/kirill3754/
 | ------- |
 | [0041-first-missing-positive](https://github.com/kirill3754/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/kirill3754/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/kirill3754/LeetCode/tree/master/0383-ransom-note) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kirill3754/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1160-letter-tile-possibilities](https://github.com/kirill3754/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kirill3754/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -71,6 +72,7 @@ https://leetcode.com/u/kirill3754/
 | ------- |
 | [0044-wildcard-matching](https://github.com/kirill3754/LeetCode/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/kirill3754/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/kirill3754/LeetCode/tree/master/0383-ransom-note) |
 | [0696-count-binary-substrings](https://github.com/kirill3754/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0824-number-of-lines-to-write-string](https://github.com/kirill3754/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kirill3754/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -91,6 +93,7 @@ https://leetcode.com/u/kirill3754/
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/kirill3754/LeetCode/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/kirill3754/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kirill3754/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kirill3754/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
