@@ -349,4 +349,5 @@ https://leetcode.com/u/kirill3754/
 | [0181-employees-earning-more-than-their-managers](https://github.com/kirill3754/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/kirill3754/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/kirill3754/LeetCode/tree/master/0183-customers-who-never-order) |
+| [1179-game-play-analysis-i](https://github.com/kirill3754/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
