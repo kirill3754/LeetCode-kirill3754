@@ -14,6 +14,7 @@ https://leetcode.com/u/kirill3754/
 | [0485-max-consecutive-ones](https://github.com/kirill3754/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kirill3754/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0787-sliding-puzzle](https://github.com/kirill3754/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/kirill3754/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0824-number-of-lines-to-write-string](https://github.com/kirill3754/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/kirill3754/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1364-tuple-with-same-product](https://github.com/kirill3754/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -56,6 +57,7 @@ https://leetcode.com/u/kirill3754/
 | [0076-minimum-window-substring](https://github.com/kirill3754/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/kirill3754/LeetCode/tree/master/0383-ransom-note) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kirill3754/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0797-rabbits-in-forest](https://github.com/kirill3754/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1160-letter-tile-possibilities](https://github.com/kirill3754/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/kirill3754/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kirill3754/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -183,6 +185,7 @@ https://leetcode.com/u/kirill3754/
 ## Math
 |  |
 | ------- |
+| [0797-rabbits-in-forest](https://github.com/kirill3754/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kirill3754/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/kirill3754/LeetCode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kirill3754/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -245,6 +248,7 @@ https://leetcode.com/u/kirill3754/
 | ------- |
 | [0044-wildcard-matching](https://github.com/kirill3754/LeetCode/tree/master/0044-wildcard-matching) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kirill3754/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0797-rabbits-in-forest](https://github.com/kirill3754/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/kirill3754/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kirill3754/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Recursion
