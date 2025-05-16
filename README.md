@@ -366,6 +366,7 @@ https://leetcode.com/u/kirill3754/
 | [1179-game-play-analysis-i](https://github.com/kirill3754/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1301-reformat-department-table](https://github.com/kirill3754/LeetCode/tree/master/1301-reformat-department-table) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/kirill3754/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/kirill3754/LeetCode-kirill3754/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/kirill3754/LeetCode/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Combinatorics
 |  |
