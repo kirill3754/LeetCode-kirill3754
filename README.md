@@ -199,6 +199,7 @@ https://leetcode.com/u/kirill3754/
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kirill3754/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/kirill3754/LeetCode-kirill3754/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Divide and Conquer
 |  |
 | ------- |
