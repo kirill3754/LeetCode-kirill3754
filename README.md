@@ -185,6 +185,7 @@ https://leetcode.com/u/kirill3754/
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/kirill3754/LeetCode/tree/master/0263-ugly-number) |
 | [0797-rabbits-in-forest](https://github.com/kirill3754/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kirill3754/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/kirill3754/LeetCode/tree/master/1642-water-bottles) |
