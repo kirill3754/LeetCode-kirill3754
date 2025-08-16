@@ -57,6 +57,7 @@ https://leetcode.com/u/kirill3754/
 | [0041-first-missing-positive](https://github.com/kirill3754/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/kirill3754/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/kirill3754/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/kirill3754/LeetCode/tree/master/0389-find-the-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kirill3754/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0797-rabbits-in-forest](https://github.com/kirill3754/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1160-letter-tile-possibilities](https://github.com/kirill3754/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -79,6 +80,7 @@ https://leetcode.com/u/kirill3754/
 | [0044-wildcard-matching](https://github.com/kirill3754/LeetCode/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/kirill3754/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/kirill3754/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/kirill3754/LeetCode/tree/master/0389-find-the-difference) |
 | [0696-count-binary-substrings](https://github.com/kirill3754/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0824-number-of-lines-to-write-string](https://github.com/kirill3754/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kirill3754/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -276,6 +278,7 @@ https://leetcode.com/u/kirill3754/
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/kirill3754/LeetCode/tree/master/0389-find-the-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/kirill3754/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/kirill3754/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kirill3754/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -357,6 +360,7 @@ https://leetcode.com/u/kirill3754/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/kirill3754/LeetCode/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kirill3754/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kirill3754/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kirill3754/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
