@@ -79,6 +79,7 @@ https://leetcode.com/u/kirill3754/
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kirill3754/LeetCode/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/kirill3754/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/kirill3754/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/kirill3754/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kirill3754/LeetCode/tree/master/0389-find-the-difference) |
