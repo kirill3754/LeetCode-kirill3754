@@ -80,6 +80,7 @@ https://leetcode.com/u/kirill3754/
 | ------- |
 | [0044-wildcard-matching](https://github.com/kirill3754/LeetCode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/kirill3754/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kirill3754/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/kirill3754/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/kirill3754/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/kirill3754/LeetCode/tree/master/0389-find-the-difference) |
@@ -132,6 +133,7 @@ https://leetcode.com/u/kirill3754/
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kirill3754/LeetCode/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/kirill3754/LeetCode/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/kirill3754/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/kirill3754/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -192,6 +194,7 @@ https://leetcode.com/u/kirill3754/
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kirill3754/LeetCode/tree/master/0067-add-binary) |
 | [0263-ugly-number](https://github.com/kirill3754/LeetCode/tree/master/0263-ugly-number) |
 | [0797-rabbits-in-forest](https://github.com/kirill3754/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kirill3754/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -363,6 +366,7 @@ https://leetcode.com/u/kirill3754/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kirill3754/LeetCode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/kirill3754/LeetCode/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/kirill3754/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kirill3754/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
